@@ -1,0 +1,77 @@
+{
+	"basics": {
+		"name": "Lakshit Mansinghka",
+		"label": "Student",
+		"picture": "",
+		"email": "2019kuec2038@iiitkota.ac.in",
+		"phone": "9829420333",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "pursuing by B.tech in electronics and communictions from Indian Institute of Information technology,Kota (India). Intrest in entrepreneurship and business managment, web devlopment.Enjoy working with new people and learning new things.  ",
+		"location": {
+			"address": "---",
+			"postalCode": "---",
+			"city": "Bhilwara",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://github.com/LakshitMansinghka/"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/lakshitmansinghka/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://instagram.com/lakshit_mansinghka/"
+			}
+		]
+	},
+	"work": [{
+		"company": "Wesettle and Houseiit",
+		"position": "Business associate Intern",
+		"website": "https://houseitt.in/",
+		"startDate": "2020-10-01//Take care about Date Format",
+		"endDate": "2020-10-15 // ",
+		"summary": "Houseitt is a ‘by the students and for the students’ initiative, registered under ‘Start-up India’ that aims to simplify the process of finding accommodation and assisting students in finding their perfect home away from home",
+		"highlights": ["received Letter of Recommendation(LOR) for my work", "worked as a business sales associate"]
+	}],
+	"volunteer": [
+    
+    {
+		"organization": "Sports Club",
+		"position": "Basket Ball team member",
+		"website": "---",
+		"startDate": "2019-09-10 // Note Date Format",
+		"endDate": "---",
+		"summary": "official basket ball team of college ",
+		"highlights": []
+	}
+    ],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "B.Tech(bachelor of technology)",
+		"startDate": "2019-05-08 //Date",
+		"endDate": "----",
+		"gpa": "7.67",
+		"courses": [
+			"Electronics & Communication Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "SQL", "C/C++", "Python","business managment"]
+	}],
+	"interests": [{
+		"name": "Extra Curricular",
+		"keywords": ["karate", "trekking", "singing"]
+	}],
+	"references": []
+}
